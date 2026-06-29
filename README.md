@@ -34,4 +34,4 @@ Aplikasi Ensiklopedia Hewan dan Tumbuhan Endemik Indonesia. Aplikasi ini dibuat 
 ![Detail Screen](screenshots/detail.jpeg)
 
 ### 5. Halaman Profil
-![Profile Screen](screenshots/profile.jpeg)
+![Profile Screen](screenshots/profile.png)
