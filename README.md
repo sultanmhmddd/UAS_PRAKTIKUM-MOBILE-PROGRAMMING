@@ -22,16 +22,16 @@ Aplikasi Ensiklopedia Hewan dan Tumbuhan Endemik Indonesia. Aplikasi ini dibuat 
 ## Cuplikan Aplikasi (Screenshots)
 
 ### 1. Splash & Sync Data
-![Splash Screen](screenshots/splash.jpg)
+![Splash Screen](screenshots/splash.jpeg)
 
 ### 2. Home (Hewan & Tumbuhan)
-![Home Screen](screenshots/home.jpg)
+![Home Screen](screenshots/home.jpeg)
 
 ### 3. Fitur Pencarian
-![Search Screen](screenshots/search.jpg)
+![Search Screen](screenshots/search.jpeg)
 
 ### 4. Detail & Favorit
-![Detail Screen](screenshots/detail.jpg)
+![Detail Screen](screenshots/detail.jpeg)
 
 ### 5. Halaman Profil
-![Profile Screen](screenshots/profile.jpg)
+![Profile Screen](screenshots/profile.jpeg)
